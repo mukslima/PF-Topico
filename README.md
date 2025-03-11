@@ -26,8 +26,9 @@ Os experimentos incluíram validação cruzada (k=10) e avaliação de métricas
 
 Os detalhes dos resultados estão nos notebooks correspondentes.
 
+--------------------------------------------------------------------------------------
 
-## 📌 Autores: Marcos AND Lima e Vamberto Junior
-## Curso: Tecnologo Sistemas para Internet
-## 📅 Data: Março de 2025
+- 📌 Autores: Marcos AND Lima e Vamberto Junior
+- 📖 Curso: Tecnologo Sistemas para Internet
+- 📅 Data: Março de 2025
 
