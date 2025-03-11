@@ -1,4 +1,4 @@
-# 📊 Machine Learning Experiments  
+# 📊 Machine Learning - Projeto Final
 
 Este repositório contém experimentos de aprendizado de máquina utilizando diferentes algoritmos de classificação e avaliação de desempenho. Foram utilizados dois conjuntos de dados distintos:  
 
